@@ -1,0 +1,30 @@
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\Shell.xaml.g.cs
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\WeatherAppFinal.AssemblyInfoInputs.cache
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\WeatherAppFinal.AssemblyInfo.cs
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\WeatherAppFinal.csproj.CoreCompileInputs.cache
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\bin\Debug\netstandard2.0\WeatherAppFinal.deps.json
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\bin\Debug\netstandard2.0\WeatherAppFinal.dll
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\bin\Debug\netstandard2.0\ref\WeatherAppFinal.dll
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\bin\Debug\netstandard2.0\WeatherAppFinal.pdb
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\WeatherAppFinal.dll
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\ref\WeatherAppFinal.dll
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\WeatherAppFinal.pdb
+C:\Users\PraweshRajKhapangi\source\repos\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\WeatherAppFinal.csprojAssemblyReference.cache
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\bin\Debug\netstandard2.0\WeatherAppFinal.deps.json
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\bin\Debug\netstandard2.0\WeatherAppFinal.dll
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\bin\Debug\netstandard2.0\ref\WeatherAppFinal.dll
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\bin\Debug\netstandard2.0\WeatherAppFinal.pdb
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\WeatherAppFinal.csproj.AssemblyReference.cache
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\Shell.xaml.g.cs
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\WeatherAppFinal.AssemblyInfoInputs.cache
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\WeatherAppFinal.AssemblyInfo.cs
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\WeatherAppFinal.csproj.CoreCompileInputs.cache
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\XamlC.stamp
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\WeatherAppFinal.dll
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\ref\WeatherAppFinal.dll
+E:\all projects\xamarin proj\WeatherAppFinal\WeatherAppFinal\WeatherAppFinal\obj\Debug\netstandard2.0\WeatherAppFinal.pdb
